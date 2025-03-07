@@ -1,0 +1,15 @@
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\obj\Debug\net7.0\Extension_methods.csproj.AssemblyReference.cache
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\obj\Debug\net7.0\Extension_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\obj\Debug\net7.0\Extension_methods.AssemblyInfoInputs.cache
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\obj\Debug\net7.0\Extension_methods.AssemblyInfo.cs
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\obj\Debug\net7.0\Extension_methods.csproj.CoreCompileInputs.cache
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\bin\Debug\net7.0\Extension_methods.exe
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\bin\Debug\net7.0\Extension_methods.deps.json
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\bin\Debug\net7.0\Extension_methods.runtimeconfig.json
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\bin\Debug\net7.0\Extension_methods.dll
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\bin\Debug\net7.0\Extension_methods.pdb
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\obj\Debug\net7.0\Extension_methods.dll
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\obj\Debug\net7.0\refint\Extension_methods.dll
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\obj\Debug\net7.0\Extension_methods.pdb
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\obj\Debug\net7.0\Extension_methods.genruntimeconfig.cache
+C:\Users\avani\source\repos\LINQ\Extension_methods\Extension_methods\obj\Debug\net7.0\ref\Extension_methods.dll
