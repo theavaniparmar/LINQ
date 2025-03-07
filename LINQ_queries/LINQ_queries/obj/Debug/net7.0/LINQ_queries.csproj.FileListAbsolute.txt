@@ -1,0 +1,15 @@
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\bin\Debug\net7.0\LINQ_queries.exe
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\bin\Debug\net7.0\LINQ_queries.deps.json
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\bin\Debug\net7.0\LINQ_queries.runtimeconfig.json
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\bin\Debug\net7.0\LINQ_queries.dll
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\bin\Debug\net7.0\LINQ_queries.pdb
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\obj\Debug\net7.0\LINQ_queries.csproj.AssemblyReference.cache
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\obj\Debug\net7.0\LINQ_queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\obj\Debug\net7.0\LINQ_queries.AssemblyInfoInputs.cache
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\obj\Debug\net7.0\LINQ_queries.AssemblyInfo.cs
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\obj\Debug\net7.0\LINQ_queries.csproj.CoreCompileInputs.cache
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\obj\Debug\net7.0\LINQ_queries.dll
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\obj\Debug\net7.0\refint\LINQ_queries.dll
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\obj\Debug\net7.0\LINQ_queries.pdb
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\obj\Debug\net7.0\LINQ_queries.genruntimeconfig.cache
+C:\Users\avani\source\repos\LINQ\LINQ_queries\LINQ_queries\obj\Debug\net7.0\ref\LINQ_queries.dll
