@@ -25,10 +25,10 @@ namespace LinqDemo
         {
            
             //method syntax
-            IEnumerable<Employee> method = Employee.GetEmployees().ToList();
+            IEnumerable<Employee> method = Employee.GetEmployees().Select(emp => new Employee() { Name = emp.Name }). ToList();
             foreach (Employee emp in method)
             {
-                Console.WriteLine($"Id : {emp.Id}  Name : {emp.Name}");
+                Console.WriteLine($"Name : {emp.Name}");
             }
             Console.ReadLine();
         }
