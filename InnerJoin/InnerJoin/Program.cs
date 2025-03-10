@@ -85,6 +85,18 @@ namespace LINQDemo
             {
                 Console.WriteLine($"{l.EmployeeName} : {l.Depid}");
             }
+
+            //cross join 
+
+            Console.WriteLine("\nCross join :");
+
+            var crossjoin = emp.SelectMany(emp => dep,
+                (emp, dep) => new { emp.Name, dep.Depid });
+
+            foreach (var l in crossjoin)
+            {
+                Console.WriteLine($"{l.Name} - {l.Depid}");
+            }
             Console.ReadLine();
         }
     }
