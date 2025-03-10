@@ -1,0 +1,15 @@
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\bin\Debug\net7.0\Aggregate_Method.exe
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\bin\Debug\net7.0\Aggregate_Method.deps.json
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\bin\Debug\net7.0\Aggregate_Method.runtimeconfig.json
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\bin\Debug\net7.0\Aggregate_Method.dll
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\bin\Debug\net7.0\Aggregate_Method.pdb
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\obj\Debug\net7.0\Aggregate_Method.csproj.AssemblyReference.cache
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\obj\Debug\net7.0\Aggregate_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\obj\Debug\net7.0\Aggregate_Method.AssemblyInfoInputs.cache
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\obj\Debug\net7.0\Aggregate_Method.AssemblyInfo.cs
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\obj\Debug\net7.0\Aggregate_Method.csproj.CoreCompileInputs.cache
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\obj\Debug\net7.0\Aggregate_Method.dll
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\obj\Debug\net7.0\refint\Aggregate_Method.dll
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\obj\Debug\net7.0\Aggregate_Method.pdb
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\obj\Debug\net7.0\Aggregate_Method.genruntimeconfig.cache
+C:\Users\avani\source\repos\LINQ\Aggregate_Method\Aggregate_Method\obj\Debug\net7.0\ref\Aggregate_Method.dll
