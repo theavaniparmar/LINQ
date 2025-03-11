@@ -1,0 +1,15 @@
+C:\Users\avani\source\repos\LINQ\Paging\Paging\bin\Debug\net7.0\Paging.exe
+C:\Users\avani\source\repos\LINQ\Paging\Paging\bin\Debug\net7.0\Paging.deps.json
+C:\Users\avani\source\repos\LINQ\Paging\Paging\bin\Debug\net7.0\Paging.runtimeconfig.json
+C:\Users\avani\source\repos\LINQ\Paging\Paging\bin\Debug\net7.0\Paging.dll
+C:\Users\avani\source\repos\LINQ\Paging\Paging\bin\Debug\net7.0\Paging.pdb
+C:\Users\avani\source\repos\LINQ\Paging\Paging\obj\Debug\net7.0\Paging.csproj.AssemblyReference.cache
+C:\Users\avani\source\repos\LINQ\Paging\Paging\obj\Debug\net7.0\Paging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avani\source\repos\LINQ\Paging\Paging\obj\Debug\net7.0\Paging.AssemblyInfoInputs.cache
+C:\Users\avani\source\repos\LINQ\Paging\Paging\obj\Debug\net7.0\Paging.AssemblyInfo.cs
+C:\Users\avani\source\repos\LINQ\Paging\Paging\obj\Debug\net7.0\Paging.csproj.CoreCompileInputs.cache
+C:\Users\avani\source\repos\LINQ\Paging\Paging\obj\Debug\net7.0\Paging.dll
+C:\Users\avani\source\repos\LINQ\Paging\Paging\obj\Debug\net7.0\refint\Paging.dll
+C:\Users\avani\source\repos\LINQ\Paging\Paging\obj\Debug\net7.0\Paging.pdb
+C:\Users\avani\source\repos\LINQ\Paging\Paging\obj\Debug\net7.0\Paging.genruntimeconfig.cache
+C:\Users\avani\source\repos\LINQ\Paging\Paging\obj\Debug\net7.0\ref\Paging.dll
