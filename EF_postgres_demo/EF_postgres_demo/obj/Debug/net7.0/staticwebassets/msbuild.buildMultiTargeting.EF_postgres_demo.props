@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EF_postgres_demo.props" />
+</Project>
